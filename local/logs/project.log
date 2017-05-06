@@ -1,0 +1,52 @@
+2017-05-06T09:37:55.253Z - normal: Load ~/.CocosCreator/settings.json
+2017-05-06T09:37:55.258Z - normal: checking language setting...
+2017-05-06T09:37:55.258Z - normal: Language: zh
+2017-05-06T09:37:56.682Z - success: protocol editor-framework registered
+2017-05-06T09:37:56.683Z - success: protocol app registered
+2017-05-06T09:37:56.683Z - success: protocol theme registered
+2017-05-06T09:37:56.683Z - success: protocol profile registered
+2017-05-06T09:37:56.683Z - success: protocol packages registered
+2017-05-06T09:37:56.683Z - success: protocol unpack registerred
+2017-05-06T09:37:56.684Z - success: protocol disable-commonjs registerred
+2017-05-06T09:37:57.051Z - normal: connected!
+2017-05-06T09:37:57.054Z - normal: Check project D:\cocoswork\start_project
+2017-05-06T09:37:57.057Z - normal: Initializing Cocos2d
+2017-05-06T09:37:57.269Z - normal: Initializing Asset Database
+2017-05-06T09:37:57.290Z - success: protocol uuid registerred
+2017-05-06T09:37:57.290Z - success: protocol db registerred
+2017-05-06T09:37:57.290Z - success: protocol thumbnail registerred
+2017-05-06T09:37:57.290Z - normal: Loading editor/builtin packages
+2017-05-06T09:37:57.417Z - success: assets loaded
+2017-05-06T09:37:57.420Z - success: builder loaded
+2017-05-06T09:37:57.423Z - success: hierarchy loaded
+2017-05-06T09:37:57.426Z - success: inspector loaded
+2017-05-06T09:37:57.429Z - success: keystore loaded
+2017-05-06T09:37:57.431Z - success: node-library loaded
+2017-05-06T09:37:57.434Z - success: preferences loaded
+2017-05-06T09:37:57.446Z - success: project-importer loaded
+2017-05-06T09:37:57.449Z - success: project-settings loaded
+2017-05-06T09:37:57.451Z - success: ui-kit loaded
+2017-05-06T09:37:57.454Z - success: ui-grid loaded
+2017-05-06T09:37:57.457Z - success: scene loaded
+2017-05-06T09:37:57.459Z - success: sprite-editor loaded
+2017-05-06T09:37:57.506Z - success: store loaded
+2017-05-06T09:37:57.511Z - success: timeline loaded
+2017-05-06T09:37:57.511Z - normal: Loading builtin packages
+2017-05-06T09:37:57.515Z - success: anysdk loaded
+2017-05-06T09:37:57.517Z - success: asset-db-debugger loaded
+2017-05-06T09:37:57.519Z - success: code-editor loaded
+2017-05-06T09:37:57.521Z - success: color-picker loaded
+2017-05-06T09:37:57.524Z - success: console loaded
+2017-05-06T09:37:57.529Z - success: package-manager loaded
+2017-05-06T09:37:57.531Z - success: tester loaded
+2017-05-06T09:37:57.533Z - success: ui-kit-preview-extra loaded
+2017-05-06T09:37:57.535Z - success: ui-kit-preview loaded
+2017-05-06T09:37:57.539Z - success: ui-tree loaded
+2017-05-06T09:37:57.590Z - normal: Initializing project D:\cocoswork\start_project
+2017-05-06T09:37:57.599Z - normal: Loading packages
+2017-05-06T09:37:57.605Z - normal: Watching packages
+2017-05-06T09:37:57.620Z - normal: Run Application
+2017-05-06T09:37:58.446Z - success: preview server running at http://localhost:7456
+2017-05-06T09:37:58.447Z - normal: Compiling scripts...
+2017-05-06T09:37:59.919Z - normal: Compiled project javascript file successfully
+2017-05-06T09:38:04.879Z - normal: 1.4.2
